@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "227634419199",
+    "project_id": "astrostream-d92da",
+    "storage_bucket": "astrostream-d92da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227634419199:android:fd00b0160547d5f6fb83ca",
+        "android_client_info": {
+          "package_name": "co.il.astrostream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227634419199-a8to5ld4dd8fl0bljgrdfkuedk7fuv4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiczOVQ13v80Pxo-eVDCy-GO2jPh7-HBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227634419199-a8to5ld4dd8fl0bljgrdfkuedk7fuv4e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "227634419199-tl1khpfe7s5i4866o7m7ltu0116su8nf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "space.astrostream"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
